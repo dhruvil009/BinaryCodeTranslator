@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.notebook.idealabs.deepsearch.Search">
+    <item
+        android:id="@+id/action_clear"
+        android:orderInCategory="100"
+        android:title="@string/action_clear"
+        android:showAsAction="never" />
+    <item android:icon="@drawable/ic_share" android:id="@+id/share_menu_id" android:title="Share" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_rate" android:id="@+id/rate_us_menu_id" android:title="Rate Us" android:showAsAction="ifRoom" />
+    <item android:id="@+id/more_apps_menu_id" android:title="More Apps By Notebook Inc" android:titleCondensed="Notebook Inc"/>
+</menu>

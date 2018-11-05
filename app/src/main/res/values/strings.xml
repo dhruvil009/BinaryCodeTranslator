@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Code Translator</string>
+
+    <string name="action_clear">Clear All</string>
+</resources>
